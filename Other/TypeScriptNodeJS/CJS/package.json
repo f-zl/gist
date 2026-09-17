@@ -1,0 +1,11 @@
+{
+	"scripts": {
+		"build": "tsc",
+		"start": "node dist/main.js",
+		"clean": "rm -r dist"
+	},
+	"devDependencies": {
+		"@types/node": "^26.5.0",
+		"typescript": "^7.0.2"
+	}
+}

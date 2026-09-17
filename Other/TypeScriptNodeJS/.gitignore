@@ -1,0 +1,4 @@
+**/dist/
+**/node_modules/
+# exact version doesn't matter for a demo
+**/pnpm-lock.yaml
